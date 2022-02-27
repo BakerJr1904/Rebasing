@@ -7,4 +7,4 @@ The git rebase command allows you to easily change a series of commits, modifyin
 What is the syntax for rebasing in Git?<br/>
 Checkout to the desired branch you want to rebase.<br/>
 Now perform the rebase command as follows:<br/>
-### Syntax: $git rebase 'branch name'
+Syntax: $git rebase 'branch name'
