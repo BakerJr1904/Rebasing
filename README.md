@@ -5,3 +5,4 @@ The git rebase command allows you to easily change a series of commits, modifyin
 ### Automatic Rebase is not certified by GitHub.
 <br/>
 What is the syntax for rebasing in Git?<br/>
+Checkout to the desired branch you want to rebase.<br/>
