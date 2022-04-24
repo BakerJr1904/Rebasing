@@ -1,6 +1,6 @@
 # Rebasing
 
-Lets play with rebasing<br/>
+### Lets play with rebasing<br/>
 The git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together. Typically, you would use git rebase to: Combine multiple commits into one, delete, or revert commits that are no longer necessary.<br/>
 
 ![Commit Merge rebasing](https://user-images.githubusercontent.com/65743503/155894539-102ae966-a277-441c-b48b-f477f207e86b.png)<br/>
