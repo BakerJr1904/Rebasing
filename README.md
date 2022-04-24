@@ -17,5 +17,5 @@ Delete or revert commits that are no longer necessary.<br/>
 Checkout to the desired branch you want to rebase.<br/>
 
 Now perform the rebase command as follows: $git rebase 'branch name'<br/>
-<br/>
+
 ### Automatic Rebase is not certified by GitHub.
